@@ -297,3 +297,9 @@ module.export = {
   },
   ...
 }
+
+
+### Package.json
+// "dev": "webpack serve --mode development --open --hot",
+// "build": "webpack --mode production"
+    
